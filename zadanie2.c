@@ -33,7 +33,7 @@ int main()
 	quicksort_gmp(0,koniec-1,P,nrP);
 	printf("SORT 1 KONIEC\n");
 	for(i=0;i<koniec;i++){
-	   mpz_powm_ui(temporary,g,i,p);//analogicznie jak wyzej, temporary=g^i(mod p)
+	   mpz_powm_ui(temporary,g,i,p);
 	   mpz_invert(inwersja,temporary,p);
 	   mpz_mul(L[i],inwersja,h);
      mpz_mod(L[i],L[i],p);
