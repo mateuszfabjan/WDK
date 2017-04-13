@@ -1,0 +1,3 @@
+Algorytm meet in the middle w tym przypadku wynonuje po³owê czyli maksymalnie 2^20 przeszukañ
+Logarytm dyskretny mo¿na obliczyæ jeszcze metod¹ brute force, czyli pe³nego przegl¹du wszystkich mo¿liwych wyników,
+jednak jest to metoda najbardziej czasoch³onna.
