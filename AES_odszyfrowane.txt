@@ -1,0 +1,35 @@
+ECB:
+
+
+
+Bit-Flipping jest popularnym atakiem na blokowe algorytmy szyfrowania w trybie CBC 
+
+(ang. Cipher Block Chaining), wi¹zania bloków zaszyfrowanych. W wielu przypadkach 
+
+prowadzi do przejêcia kont innych u¿ytkowników (czêsto administracyjnych), 
+
+a w skrajnych przypadkach - nawet do zdalnego wykonywania kodu.
+
+
+
+CBC:
+
+
+
+Padding Oracle to atak pozwalaj¹cy na wy³uskanie tekstu jawnego z zaszyfrowanych 
+
+danych bez znajomoœci klucza szyfruj¹cego, a tak¿e - bez koniecznoœci wyszukiwania 
+
+b³êdów w samym algorytmie szyfruj¹cym.
+
+
+
+CRT:
+
+
+
+Prêdzej czy póŸniej komputery kwantowe o mo¿liwoœciach znacznie przewy¿szaj¹cych 
+
+tradycyjne maszyny obliczeniowe wejd¹ do powszechnego u¿ytku. Bêdzie to moment, 
+
+w którym ca³a gama stosowanych obecnie algorytmów szyfrowania straci swoje znaczenie.
